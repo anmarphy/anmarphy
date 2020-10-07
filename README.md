@@ -3,6 +3,12 @@ I am a Statistician and Physicist from Colombia. With spirit of solving tough pr
 
 - 🔭 I’m currently working as Data Scientist in a Global Talent Acquisition Department.
 - 🌱 I’m currently learning tensorflow and keras!
+
+## 📬 Get in touch
+-LinkedIn [https://www.linkedin.com/in/andrietaam/][1]
+
+
+
 <!--
 **anmarphy/anmarphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
