@@ -1,7 +1,7 @@
 ## Welcome to my repository 👋
 I am a Statistician and Physicist from Colombia, with spirit of solving tough problems using data science to put truly transformative solutions and make impactful data-driven decisions. I am interesed in improving my programming skills and learning about Artificial Intelligence! 
 
-- 🔭 I’m currently working as Data Scientist in a Global Talent Acquisition Department.
+- ⚡ I’m currently working as Data Scientist in a Global Talent Acquisition Department.
 - 🌱 I’m currently learning tensorflow and keras!
 - 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks.
 
