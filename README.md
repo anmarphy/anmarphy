@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Statistician and Physicist from Colombia. With spirit of solving tough problems using data science to put truly transformative solutions and make impactful data-driven decisions. I am interesed in AI! 
+I am a Statistician and Physicist from Colombia. With spirit of solving tough problems using data science to put truly transformative solutions and make impactful data-driven decisions. I am interesed in AI and Machine Learning! 
 
 - 🔭 I’m currently working as Data Scientist in a Global Talent Acquisition Department.
 - 🌱 I’m currently learning tensorflow and keras!
