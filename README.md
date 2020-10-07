@@ -5,7 +5,7 @@ I am a Statistician and Physicist from Colombia. With spirit of solving tough pr
 - 🌱 I’m currently learning tensorflow and keras!
 
 ## 📬 Get in touch
--[LinkedIn)[https://www.linkedin.com/in/andrietaam][1]
+-(LinkedIn)[https://www.linkedin.com/in/andrietaam]
 
 
 
