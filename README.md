@@ -3,7 +3,7 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 
 - ⚡ I’m currently working as Data Scientist in a Global Talent Acquisition Department.
 - 🌱 I’m currently learning tensorflow and keras!
-- 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks.
+- 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks, Machine Learning and Data Science.
 
 ### 📬 Get in touch
 -[LinkedIn](https://www.linkedin.com/in/andrietaam)
