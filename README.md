@@ -2,7 +2,7 @@
 I am a Statistician and Physicist from Colombia, with spirit of solving tough problems using data science to put truly transformative solutions and make impactful data-driven decisions. 
 
 - ⚡ I’m currently working as Data Scientist at Globant.
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I'm learning Natural Language Processing.
 - 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks, Machine Learning and Data Science.
 
 
