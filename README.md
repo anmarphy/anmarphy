@@ -9,6 +9,8 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 
 ### 📬 Get in touch
 -[LinkedIn](https://www.linkedin.com/in/andrietaam)
