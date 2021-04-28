@@ -7,15 +7,14 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 - 🌱 I'm learning Natural Language Processing.
 - 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks, Machine Learning and Data Science.
 
-## ⚡ Technologies
+### ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 
+
 ### 📬 Get in touch
--[LinkedIn](https://www.linkedin.com/in/andrietaam)
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/andrietaam)
 <!--
 **anmarphy/anmarphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
