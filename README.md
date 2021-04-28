@@ -10,11 +10,11 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 ### ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![R](https://img.shields.io/badge/-Rstudio-black?style=flat-square&logo=Rstudio)
 
 
 ### 📬 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/andrietaam)
+[![Linkedin Badge](https://img.shields.io/badge/-andrietaam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrietaam/)](https://www.linkedin.com/in/andrietaam)
 <!--
 **anmarphy/anmarphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
