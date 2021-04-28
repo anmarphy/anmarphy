@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=anmarphy)
+![](https://komarev.com/ghpvc/?username=anmarphy&color=blueviolet)
 
 ## Welcome to my repository 👋
 I am a Statistician and Physicist from Colombia, with spirit of solving tough problems using data science to put truly transformative solutions and make impactful data-driven decisions. 
