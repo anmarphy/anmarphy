@@ -11,6 +11,7 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![R](https://img.shields.io/badge/-Rstudio-black?style=flat-square&logo=Rstudio)
+![Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=Colab)
 
 
 ### 📬 Get in touch
