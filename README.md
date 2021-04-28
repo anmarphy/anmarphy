@@ -8,8 +8,8 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 - 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks, Machine Learning and Data Science.
 
 ### ⚡ Technologies
-![Python](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Python](https://img.shields.io/badge/-Jupyter-style=flat-square&logo=Jupyter)
+![Git](https://img.shields.io/badge/-Git-style=flat-square&logo=git)
 ![R](https://img.shields.io/badge/-Rstudio-black?style=flat-square&logo=Rstudio)
 
 
