@@ -7,12 +7,6 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 - 🌱 I'm learning Natural Language Processing.
 - 👯 I’m looking to collaborate on projects regarding Artificial Neural Networks, Machine Learning and Data Science.
 
-### ⚡ Technologies
-![Python](https://img.shields.io/badge/-Jupyter-style=flat-square&logo=Jupyter)
-![Git](https://img.shields.io/badge/-Git-style=flat-square&logo=git)
-![R](https://img.shields.io/badge/-Rstudio-black?style=flat-square&logo=Rstudio)
-
-
 
 ### 📬 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-andrietaam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrietaam/)](https://www.linkedin.com/in/andrietaam)
