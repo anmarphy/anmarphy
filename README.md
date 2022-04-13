@@ -5,7 +5,7 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 
 - ⚡ I’m currently working as Data Scientist at [Globant](https://www.globant.com)
 - 🌱 I'm passionate about Natural Language Processing.
-- 😄 I'm learning about the AWS and Azure ecosystem.
+- 😄 I'm learning about the AWS ecosystem.
 - 👯 I’m looking to collaborate on projects regarding AI, ML and DS.
 
 
