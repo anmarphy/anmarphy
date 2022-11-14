@@ -10,7 +10,7 @@ I am a Statistician and Physicist from Colombia, with spirit of solving tough pr
 
 
 ### 📬 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-andrietaam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrietaam/)](https://www.linkedin.com/in/andrietaam)
+[![Linkedin Badge](https://img.shields.io/badge/-andrietaam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrietaam/)](https://www.linkedin.com/in/amhuerfanoba)
 <!--
 **anmarphy/anmarphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
